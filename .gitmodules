@@ -1,0 +1,12 @@
+[submodule "anybdd"]
+	path = anybdd
+	url = git@gitlab.com:patchme/anybdd.git
+[submodule "anycli"]
+	path = anycli
+	url = git@gitlab.com:patchme/anycli.git
+[submodule "anytui"]
+	path = anytui
+	url = git@gitlab.com:patchme/anytui.git
+[submodule "anygrpc"]
+	path = anygrpc
+	url = git@gitlab.com:patchme/anygrpc.git
